@@ -66,4 +66,5 @@ The project expects three tables:
 
 1. **Clone the repository**
 ```bash
+https://github.com/Shahira-Banu/ParkingLotManagementSystem.git
 
